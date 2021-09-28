@@ -90,6 +90,16 @@ Z reguły najlepiej wchodzi się we współpracę z organizacjami, które znają
 - [ ] Stowarzyszenia/Fundacje
 - [ ] Portale/media
 
+Pisząc o propozycje współpracy warto zawrzeć w komunikacji misje i/lub cele wszystkich organizacji/fundacji które chcemy wesprzeć podczas danego wydarzenia (w tym Hackerspace Trójmiasto). W ten sposób nie trzeba będzie odkręcać czyjegoś wyobrażenia i łatwiej będzie znaleźć odpowiednie warunki współpracy.
+
+Checklista komunikacyjna:
+- [ ] Czym jest Hackerspace? (zob. opis na LinkedIn, Patronite, etc.)
+- [ ] Misja
+- [ ] Opis planowanego wydarzenia
+- [ ] Cele
+- [ ] Czego oczekujemy od patrona?
+- [ ] Benefity dla patrona (np. umieszczenie logo na grafikach, wzmianka w mediach, pomysły własne)
+
 ## 📝 Rodo i inne zgody 
 
 ## Przed wydarzeniem 
