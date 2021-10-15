@@ -38,7 +38,8 @@ Jeżeli planujemy wydarzenie online warto pomyśleć czy będzie streamowane, na
 
 👉 Zadbajmy, żeby nasze wydarzenie przyciągnęło uwagę ładnymi grafikami (na odpowiedniej licencji) np. z [Unsplash](https://unsplash.com/).
 
-👉 Logo Hackerspace Trójmiasto w różnych formatach i wariantach [tutaj](https://fishy-tile-b98.notion.site/8ba11351d77a407492b3691db7c43e42?v=f06acb96869c4f0a9ee7c2a9cd3ac068).
+👉 Logo Hackerspace Trójmiasto w różnych formatach i wariantach ([hs3_logo_pack.zip](https://github.com/hs3city/events-checklist/files/7355310/hs3_logo_pack.zip)
+) i [tutaj](https://fishy-tile-b98.notion.site/8ba11351d77a407492b3691db7c43e42?v=f06acb96869c4f0a9ee7c2a9cd3ac068).
 
 👉 Swoim lekkim piórem na pewno wesprą **Pisarze HS3**.
 
