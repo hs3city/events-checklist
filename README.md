@@ -29,21 +29,33 @@ Na discordzie mamy rolę **🥳 Ogarniacze wydarzeń**, są to osoby które już
 Jeżeli planujemy wydarzenie online warto pomyśleć czy będzie streamowane, nagrywane, czy to jednak zwykłe spotkanie na kanale głosowym.
 
 - [ ] Platforma/y
-  - [ ] YouTube
+  - [ ] YouTube - można zaplanowac odpowiednio wcześniej
   - [ ] Twitch
+- [ ] Internet  przypadku streamowania to minum łącze o paramterach: upload 10 Mb/s  
 - [ ] Czy wydarzenie będzie też nagrane i np. wstawione na nasz YouTube?
-- [ ] Osoba techniczna 
+- [ ] Osoba techniczna, która ogarnie transmisje - @Kacu ¯\_(ツ)_/¯ 
+- [ ] Sprawny mikrofon!
+- [ ] Przeprowadzić testy przed wydarzeniem (1 dzień, lub 1h) 
+- [ ] Grafika na Youtube - ekran początkowy i ekran na przerwy. Taki które jest łatwy w edycji np w formie prezentacji. 
+- [ ] Osobę, która będzie odpowadać na zapytania na Discordzie oraz Youtubie
+- [ ] Osobę, która na live sprawdzi jaka jest jakośc transmij (głos, obraz) 
 
 ## 🗂️ Materiały marketingowe
 
-👉 Zadbajmy, żeby nasze wydarzenie przyciągnęło uwagę ładnymi grafikami (na odpowiedniej licencji) np. z [Unsplash](https://unsplash.com/).
+👉 Zadbajmy, żeby nasze wydarzenie przyciągnęło uwagę ładnymi grafikami (na odpowiedniej licencji) np. z [Unsplash](https://unsplash.com/). Przyjemnie tworzy się grafikę w [Canvie](https://www.canva.com/)
 
 👉 Logo Hackerspace Trójmiasto w różnych formatach i wariantach ([hs3_logo_pack.zip](https://github.com/hs3city/events-checklist/files/7355310/hs3_logo_pack.zip)
 ) i [tutaj](https://fishy-tile-b98.notion.site/8ba11351d77a407492b3691db7c43e42?v=f06acb96869c4f0a9ee7c2a9cd3ac068).
 
 👉 Swoim lekkim piórem na pewno wesprą **Pisarze HS3**.
 
-- [ ] Grafika
+- [ ] Grafika ( najlepiej pozioma) 
+
+    - Meetup - Przynajmniej 1200 x 675 px / może być większa ale w tych proporcjach.  
+    - Facebook 
+    - LinkedIn
+    - Youtube 
+    - Plakat  (może być pionowy) 
 
 - [ ] Teksty
 
@@ -57,11 +69,17 @@ Najlepsze wydarzenia to takie, o których ktoś wie...
 
 Po przygotowaniu materiałów, ruszamy w świat! Promujemy wydarzenia na różnych platformach, z reguły są to:
 
-🔴 [Discord](https://discord.gg/GSTgYzU)
+🔴 [Discord](https://discord.gg/GSTgYzU)  - opiekun **🥳 Ogarniacze wydarzeń**
 
-🔴 [LinkedIn](https://www.linkedin.com/company/hackerspace-tr%C3%B3jmiasto)
+🔴 [Meetup](https://www.meetup.com/hs3city/events/)  - @Doomhammer, @LeszekM, @Marcin Młyński, @Dreat
 
-🔴 [Facebook](https://www.facebook.com/hackerspacetrojmiasto/)
+🔴 [LinkedIn](https://www.linkedin.com/company/hackerspace-tr%C3%B3jmiasto)  - @Doomhammer, @LeszekM, @Marcin Młyński
+
+🔴 [Facebook](https://www.facebook.com/hackerspacetrojmiasto/) - @LeszekM, @Marcin Młyński
+
+🔴 [Twitter](https://twitter.com/hs3city) - @Makneta, @Doomhammer
+
+🔴 [Youtube](https://www.youtube.com/channel/UC1MjdZvgtGZwSAaveL-Z8CA) - @Kacu ¯\_(ツ)_/¯  , @Doomhammer, @LeszekM
 
 ## ✍️ Zapisy na wydarzenie
 
@@ -103,11 +121,23 @@ Checklista komunikacyjna:
 
 ## 📝 Rodo i inne zgody 
 
+Potrzebujemy jeśli zbieramy zapisy inaczej niż Meetup i Discord
+
+Najważniejsze zgody:
+
+- [ ] Rodo (przetwarzenia danych) 
+- [ ] Na umieszczenie wizurenku w celu promocji wydarzenia - Foto z wydarzenia
+
+Zapytaj @Marcin Młyński jeśli masz wątpliowści lub potrzebujesz pomocy 
+
 ## Przed wydarzeniem 
 
 ## Podczas wydarzenia 
 
 ## Po wydarzeniu 
+
+- [ ] Posprzątaj 
+- [ ] Podziękuj 
 
 ## 🔗 Linki
 
@@ -126,3 +156,5 @@ Checklista komunikacyjna:
 - [YouTube](https://www.youtube.com/channel/UC1MjdZvgtGZwSAaveL-Z8CA)
 
 - [Patronite](https://patronite.pl/hs3)
+
+- [Twitter](https://twitter.com/hs3city)
