@@ -22,23 +22,23 @@ Zaczynamy oczywiście od pomysłu zebranym na kanale pomysły, IdeaSquashu, w zw
 
 ## 💚 Pomoc w organizacji 
 
-Na discordzie mamy rolę **🥳 Ogarniacze wydarzeń**, są to osoby które już coś kiedyś (współ)organizowały i na pewno pomogą w razie wątpliwości.
+Na Discordzie mamy rolę **🥳 Ogarniacze wydarzeń**, są to osoby które już coś kiedyś (współ)organizowały i na pewno pomogą w razie wątpliwości.
 
 ## 🎥 Streaming i nagrywanie 
 
 Jeżeli planujemy wydarzenie online warto pomyśleć czy będzie streamowane, nagrywane, czy to jednak zwykłe spotkanie na kanale głosowym.
 
 - [ ] Platforma/y
-  - [ ] YouTube - można zaplanowac odpowiednio wcześniej
+  - [ ] YouTube-można zaplanować odpowiednio wcześniej
   - [ ] Twitch
-- [ ] Internet  przypadku streamowania to minum łącze o paramterach: upload 10 Mb/s  
+- [ ] Internet w przypadku streamowania to minimum łącze o parametrach: upload 10 Mb/s  
 - [ ] Czy wydarzenie będzie też nagrane i np. wstawione na nasz YouTube?
 - [ ] Osoba techniczna, która ogarnie transmisje - @Kacu ¯\_(ツ)_/¯ 
 - [ ] Sprawny mikrofon!
-- [ ] Przeprowadzić testy przed wydarzeniem (1 dzień, lub 1h) 
-- [ ] Grafika na Youtube - ekran początkowy i ekran na przerwy. Taki które jest łatwy w edycji np w formie prezentacji. 
-- [ ] Osobę, która będzie odpowadać na zapytania na Discordzie oraz Youtubie
-- [ ] Osobę, która na live sprawdzi jaka jest jakośc transmij (głos, obraz) 
+- [ ] Przeprowadzić testy przed wydarzeniem (1 dzień lub 1h). 
+- [ ] Grafiki na Youtube-ekran początkowy i ekran na przerwy. Takie, które jest łatwy w edycji np w formie prezentacji. 
+- [ ] Osobę, która będzie odpowiadać na zapytania na Discordzie oraz Youtubie.
+- [ ] Osobę, która na live sprawdzi, jaka jest jakość transmisji (głos, obraz).
 
 ## 🗂️ Materiały marketingowe
 
@@ -49,9 +49,9 @@ Jeżeli planujemy wydarzenie online warto pomyśleć czy będzie streamowane, na
 
 👉 Swoim lekkim piórem na pewno wesprą **Pisarze HS3**.
 
-- [ ] Grafika ( najlepiej pozioma) 
+- [ ] Grafika (najlepiej **pozioma**) 
 
-    - Meetup - Przynajmniej 1200 x 675 px / może być większa ale w tych proporcjach.  
+    - Meetup - Przynajmniej 1200 x 675 px / może być większa, ale w tych proporcjach.  
     - Facebook 
     - LinkedIn
     - Youtube 
@@ -67,7 +67,7 @@ Jeżeli planujemy wydarzenie online warto pomyśleć czy będzie streamowane, na
 
 Najlepsze wydarzenia to takie, o których ktoś wie...
 
-Po przygotowaniu materiałów, ruszamy w świat! Promujemy wydarzenia na różnych platformach, z reguły są to:
+Po przygotowaniu materiałów ruszamy w świat! Promujemy wydarzenia na różnych platformach, z reguły są to:
 
 🔴 [Discord](https://discord.gg/GSTgYzU)  - opiekun **🥳 Ogarniacze wydarzeń**
 
@@ -126,9 +126,9 @@ Potrzebujemy jeśli zbieramy zapisy inaczej niż Meetup i Discord
 Najważniejsze zgody:
 
 - [ ] Rodo (przetwarzenia danych) 
-- [ ] Na umieszczenie wizurenku w celu promocji wydarzenia - Foto z wydarzenia
+- [ ] Na umieszczenie wizerunku w celu promocji wydarzenia. Foto z wydarzenia.
 
-Zapytaj @Marcin Młyński jeśli masz wątpliowści lub potrzebujesz pomocy 
+Zapytaj @Marcin Młyński jeśli masz wątpliwości lub potrzebujesz pomocy 
 
 ## Przed wydarzeniem 
 
