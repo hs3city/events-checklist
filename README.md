@@ -6,11 +6,12 @@ Lista kontrolna pomocna przy organizacji wydarzenia w Hackerspace Trójmiasto.
 **[Streaming i nagrywanie](#-streaming-i-nagrywanie)**<br>
 **[Materiały marketingowe](#-materiały-marketingowe)**<br>
 **[Promocja](#-promocja-wydarzenia)**<br>
+**[Dobre praktyki](#-dobre-praktyki)**<br>
 **[Linki](#-linki)**<br>
 
 ## 📋 Podstawy
 
-Zaczynamy oczywiście od pomysłu zebranym na kanale pomysły, IdeaSquashu, w zwykłej konwersacji lub z potrzeby serca. Te punkty pomogą nadać mu kształty:
+Zaczynamy oczywiście od pomysłu zebranym na kanale pomysły, Idea Squash, w zwykłej konwersacji lub z potrzeby serca. Te punkty pomogą nadać mu kształty:
 
 - [ ] Rodzaj wydarzenia
 - [ ] Temat
@@ -39,6 +40,8 @@ Jeżeli planujemy wydarzenie online warto pomyśleć czy będzie streamowane, na
 - [ ] Grafiki na Youtube-ekran początkowy i ekran na przerwy. Takie, które jest łatwy w edycji np w formie prezentacji. 
 - [ ] Osobę, która będzie odpowiadać na zapytania na Discordzie oraz Youtubie.
 - [ ] Osobę, która na live sprawdzi, jaka jest jakość transmisji (głos, obraz).
+- [ ] Linki do transmisji na YouTube przygotuj i przetestuj kilka dni przed wydarzeniem
+  - [ ] Umieść te linki wszędzie gdzie pojawiają się wzmianki o wydarzeniu
 
 ## 🗂️ Materiały marketingowe
 
@@ -69,9 +72,9 @@ Najlepsze wydarzenia to takie, o których ktoś wie...
 
 Po przygotowaniu materiałów ruszamy w świat! Promujemy wydarzenia na różnych platformach, z reguły są to:
 
-🔴 [Discord](https://discord.gg/GSTgYzU)  - opiekun **🥳 Ogarniacze wydarzeń**
+🔴 [Discord](https://hs3.pl/join)  - opiekun **🥳 Ogarniacze wydarzeń**
 
-🔴 [Meetup](https://www.meetup.com/hs3city/events/)  - @Doomhammer, @LeszekM, @Marcin Młyński, @Dreat
+🔴 [Meetup](https://hs3.pl/wydarzenia)  - @Doomhammer, @LeszekM, @Marcin Młyński, @Dreat
 
 🔴 [LinkedIn](https://www.linkedin.com/company/hackerspace-tr%C3%B3jmiasto)  - @Doomhammer, @LeszekM, @Marcin Młyński
 
@@ -119,6 +122,8 @@ Checklista komunikacyjna:
 - [ ] Czego oczekujemy od patrona?
 - [ ] Benefity dla patrona (np. umieszczenie logo na grafikach, wzmianka w mediach, pomysły własne)
 
+Niektórzy partnerzy lub sponsorzy oczekują podsumowania po zakończeniu wydarzenia. Zwykle chodzi o statystyki i krótkie podsumowanie, więc warto pamiętać by sprawdzić ile osób wzięło udział (zarówno na miejscu jak i na transmisjach).
+
 ## 📝 Rodo i inne zgody 
 
 Potrzebujemy jeśli zbieramy zapisy inaczej niż Meetup i Discord
@@ -130,14 +135,47 @@ Najważniejsze zgody:
 
 Zapytaj @Marcin Młyński jeśli masz wątpliwości lub potrzebujesz pomocy 
 
-## Przed wydarzeniem 
+## Przed wydarzeniem
 
-## Podczas wydarzenia 
+- [ ] Rozłóż naklejki i inne materiały pamiątkowo-promocyjne HS3 blisko wejścia
+
+## Podczas wydarzenia
+
+- [ ] Przywitaj się z uczestnikami
+- [ ] Przedstaw Hackerspace Trójmiasto
+- [ ] Zaproś uczestników do [dołączenia na Discord](https://hs3.pl/join) oraz [wsparcia finansowego](https://hs3.pl/wspieram)
+- [ ] Baw się dobrze
+- [ ] Dziel się pozytywną zajawką z innymi
 
 ## Po wydarzeniu 
 
-- [ ] Posprzątaj 
-- [ ] Podziękuj 
+- [ ] Podziękuj uczestnikom
+- [ ] Zaproś uczestników na piknik by mogli lepiej nas poznać
+- [ ] Posprzątaj
+- [ ] Uczcij świetnie wykonaną robotę
+- [ ] Podziel się wrażeniami z resztą społeczności na Discord (np. kanał #wydarzenia-dyskusje)
+
+## 📜 Dobre praktyki
+
+### Reguła Równowagi
+
+Zanim zdecydujesz się wybrać termin wydarzenia [sprawdź w kalendarzu](https://hs3.pl/wydarzenia/wewnetrzne) co już mamy zaplanowane w danym tygodniu i danym miesiącu. Za dużo wydarzeń w krótkim czasie to nie zdrowo.
+
+### Reguła Dwojga
+
+Warto by każde wydarzenie (i każdy inny projekt) realizowane przez Hackerspace Trójmaisto miało przynajmniej dwoje liderów. Dzięki temu gdy jedna osoba nie może/zmęczy się/cokolwiek to druga będzie pełną moc i pełną wiedzę by wszystko poprowadzić.
+
+Przy okazji, w najgorszym przypadku jeśli tylko dwoje liderów pojawi się na wydarzeniu to nie jest to czas stracony, bo przynajmniej te dwie osoby mogą sobie pogadać i jest z tego jakaś korzyść.
+
+### Reguła Mnemoników
+
+Jeśli robisz wydarzenie cykliczne to warto trzymać się łatwych do zapamiętania mnemoników typu "co X miesiąc w pierwszy/drugi Y miesiąca. Przykładowo: Idea Squash jest zawsze w pierwszy wtorek miesiąca, Piknik w ostatni piątek miesiąca, English Night w co drugą środę.
+
+Trzymając się tej reguły ułatwiamy też życie sobie, bo nie musimy za każdym razem wybierać terminu wydarzenia. Wiadomo że czasami robi się odstępstwa (święta albo inne kolizje), ważne jednak by nie było to za często.
+
+### Reguła Przygotowania
+
+Jeśli wydarzenie wymaga użycia jakiegoś dodatkowego sprzętu (np. impreza robiona w siedzibie partnera którą chcemy streamować) to warto dzień wcześniej przynieść, rozstawić i przetestować ten sprzęt.
 
 ## 🔗 Linki
 
