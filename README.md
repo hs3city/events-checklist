@@ -146,6 +146,7 @@ Zapytaj @Marcin Młyński jeśli masz wątpliwości lub potrzebujesz pomocy
 - [ ] Zaproś uczestników do [dołączenia na Discord](https://hs3.pl/join) oraz [wsparcia finansowego](https://hs3.pl/wspieram)
 - [ ] Baw się dobrze
 - [ ] Dziel się pozytywną zajawką z innymi
+- [ ] Pamiętaj o robieniu zdjęć
 
 ## Po wydarzeniu 
 
@@ -154,6 +155,7 @@ Zapytaj @Marcin Młyński jeśli masz wątpliwości lub potrzebujesz pomocy
 - [ ] Posprzątaj
 - [ ] Uczcij świetnie wykonaną robotę
 - [ ] Podziel się wrażeniami z resztą społeczności na Discord (np. kanał #wydarzenia-dyskusje)
+- [ ] Podziękuj prelegentom w mediach społecznościowych publikując zdjęcia z nimi z wydarzenia
 
 ## 📜 Dobre praktyki
 
@@ -176,6 +178,17 @@ Trzymając się tej reguły ułatwiamy też życie sobie, bo nie musimy za każd
 ### Reguła Przygotowania
 
 Jeśli wydarzenie wymaga użycia jakiegoś dodatkowego sprzętu (np. impreza robiona w siedzibie partnera którą chcemy streamować) to warto dzień wcześniej przynieść, rozstawić i przetestować ten sprzęt.
+
+### Reguła Dokumentacji
+
+Dobre wydarzenie zasługuje dobre zdjęcia. Dobrze prelegenci zasługują na dobre zdjęcia. Dobry organizator i sponsorzy również. A uczestnicy? Już wiesz:) Publikacja zdjęć po wydarzeniu i oznaczanie na nich prelegentów czy sponsorów daje im poczucie docenienia oraz potrzebną ekspozycję. Zwłaszcza gdy reprezentują instytucję i/lub sponsora.
+Z perspektywy organizatora łatwiej będzie pozyskać sponsorów czy publiczność w trakcie kolejnych wydarzeń. Zdjęcia są doskonałym portfolio osiągnięć organizatora i ułatwiają reklamę, negocjacje sponsorskie i instytucjonalne czy pozyskiwanie patronów medialnych.
+Z perspektywy potencjalnego uczestnika, zdjęcia z innych imprez lub edycji pomagają wyrobić sobie wyobrażenie na temat eventu. To ułatwia podjęcie decyzji o uczestnictwie oraz stworzenie racjonalnych oczekiwań.
+
+### Reguła Twarzy
+
+Dobre zdjęcia zawierają twarze. Mile widziane są zbliżenia, pokazywanie gestów oraz zaangażowanie uczestników, np. w pracę warsztatową. Zdjęcia ogólne i zza pleców, choć się przydają, mają mniejsze znaczenie niż dwa/trzy dobre ujęcia uśmiechniętych twarzy.
+Twarzą firmy, partnera, sponsora czy patrona medialnego jest jego logo. Jeśli dał stand, zrób mu zdjęcie. Dobre będzie też zdjęcie uczestników ze standem gdzieś w tle.  
 
 ## 🔗 Linki
 
