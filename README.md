@@ -55,9 +55,9 @@ Jeżeli planujemy wydarzenie online warto pomyśleć czy będzie streamowane, na
 - [ ] Grafika (najlepiej **pozioma**) 
 
     - Meetup - Przynajmniej 1200 x 675 px / może być większa, ale w tych proporcjach.  
-    - Facebook 
+    - Facebook - grafika na wydarzenie 1200 x 628 px
     - LinkedIn
-    - Youtube 
+    - Youtube - na planowania streama (thumbnails) - 1280 x 720 px  (dopuszczelne formaty JPG, GIF, PNG) rozmiar poniżej 2MB
     - Plakat  (może być pionowy) 
 
 - [ ] Teksty
