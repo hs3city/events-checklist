@@ -92,6 +92,16 @@ W zależności od formy i wskaźnika amatorsko-profesjonalnego zapisy mogą wygl
 
 ✏️ Zapisy bezpośrednio przez meetup
 
+👉 Evenea - do stworzenia zapisów na Evenei potrzeba: 
+- opis
+- bilety od kiedy do kiedy i po ile 
+- liczba miejsc
+- termin wydarzenia z godzinami 
+- grafika 
+- adres mailowy kontaktowy
+- czy zapisy mają się same akceptować? 
+- czy ma być jakieś niestandardowe potwierdzenie zapisania się na wydarzenie (idzie automatem)
+
 👉 Mix/inny pomysł
 
 ## 🍕 Catering
